@@ -16,6 +16,7 @@ void contributors() {
   void contributors() {
     me("first contributor", "i like dart");
     me("your contributor", "i like code"); <-- your example pull request
+    me("hhatfimmxx", "fuck society!");
   }
   
   More info check pull requests
